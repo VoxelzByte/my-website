@@ -3,7 +3,7 @@
 body{
   /*states color for all text*/
   color:rgb(66, 6, 170);
-  background-image: url("".jpg");
+  background-image: url("background.jpg");
 }
 
 a:link {/*color for links*/
